@@ -3,15 +3,15 @@
 	"id": "guns-gone-goofy",
 	"version": "${version}",
 	"name": "Guns Gone Goofy",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Minecraft Mod",
 	"authors": [
-		"Me!"
+		"Datenschutzz",
+		"DwarfInSpace"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Datenschutzz/guns-gone-goofy/tree/master"
 	},
-	"license": "CC0-1.0",
+	"license": "ARR",
 	"icon": "assets/guns-gone-goofy/icon.png",
 	"environment": "*",
 	"entrypoints": {
