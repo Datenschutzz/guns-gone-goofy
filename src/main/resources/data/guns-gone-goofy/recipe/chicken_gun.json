@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#o#",
+    "DND",
+    "BYb"
+  ],
+  "key": {
+    "#": "minecraft:white_wool",
+    "o": "minecraft:egg",
+    "D": "minecraft:diamond",
+    "N": "minecraft:nether_star",
+    "B": "minecraft:brown_egg",
+    "Y": "minecraft:yellow_wool",
+    "b": "minecraft:blue_egg"
+  },
+  "result": {
+    "id": "chicken-gun:chicken_gun"
+  }
+}
